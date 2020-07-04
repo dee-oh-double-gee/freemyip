@@ -1,5 +1,5 @@
 #!/bin/bash
-#copy in your freemyip.com url with toekn and domain and MAKE SURE you add the &verbose=yes at the end
+#copy in your freemyip.com url with token and domain and MAKE SURE you add the &verbose=yes at the end
 url="https://freemyip.com/update?token=YOUR_TOKEN&domain=YOUR_DOMAIN.freemyip.com&verbose=yes"
 
 keyword="didn't change"
